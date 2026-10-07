@@ -41,8 +41,8 @@
   git push origin main
   ```
 * **Acceptance Criteria (AC)**:
-  - [ ] File `.env` tồn tại và chứa cấu hình chuẩn.
-  - [ ] GitHub repository cá nhân đã cập nhật commit mới nhất.
+  - [x] File `.env` tồn tại và chứa cấu hình chuẩn.
+  - [x] GitHub repository cá nhân đã cập nhật commit mới nhất.
 
 ---
 

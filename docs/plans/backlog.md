@@ -8,9 +8,9 @@
 ## 📌 Tổng Quan Tiến Độ
 
 * **Tổng số task**: 12
-* **Đã hoàn thành (Done)**: 1 / 12
+* **Đã hoàn thành (Done)**: 2 / 12
 * **Đang thực hiện (In Progress)**: 0 / 12
-* **Chờ thực hiện (To Do)**: 11 / 12
+* **Chờ thực hiện (To Do)**: 10 / 12
 
 ---
 
@@ -34,10 +34,7 @@
 ---
 
 ### 🔄 Đang Thực Hiện (In Progress)
-
-| Mã Task | Tên Task | Bắt đầu lúc | Mục tiêu chính |
-|---|---|---|---|
-| **TASK-02** | Khởi tạo cấu hình `.env` & Đồng bộ GitHub cá nhân | 2026-10-07 | Tạo file .env chuẩn, commit & push git repo |
+*(Hiện tại chưa có task nào đang chạy)*
 
 ---
 
@@ -46,3 +43,4 @@
 | Mã Task | Tên Task | Ngày hoàn thành | Tài liệu nghiệm thu |
 |---|---|---|---|
 | **TASK-01** | Thiết lập môi trường ảo CPU & Chạy Smoke Test cục bộ | 2026-10-07 | [docs/completed/task01_setup_and_smoke.md](task01_setup_and_smoke.md) |
+| **TASK-02** | Khởi tạo cấu hình `.env` & Đồng bộ GitHub cá nhân | 2026-10-07 | [docs/completed/task02_config_and_git_sync.md](task02_config_and_git_sync.md) |
